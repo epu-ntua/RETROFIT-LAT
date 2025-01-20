@@ -1,5 +1,7 @@
 # Enhancing Energy Efficiency: A Dataset on Building Retrofitting and Solar Adoption in Latvia
 
+[![DOI](https://zenodo.org/badge/913311588.svg)](https://doi.org/10.5281/zenodo.14697230)
+
 ## Overview
 
 This repository contains datasets and supporting scripts from the study **"Enhancing Energy Efficiency: A Dataset on Building Retrofitting and Solar Adoption in Latvia"**. It provides detailed information on residential building energy efficiency projects funded by the Latvian Environmental Investment Fund (LEIF). The data focuses on retrofitting and solar panel installations, offering insights into energy performance improvements and sustainability measures.
