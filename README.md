@@ -1,6 +1,6 @@
 # Enhancing Energy Efficiency: A Dataset on Building Retrofitting and Solar Adoption in Latvia
 
-[![DOI](https://zenodo.org/badge/913311588.svg)](https://doi.org/10.5281/zenodo.14697230)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14697314.svg)](https://doi.org/10.5281/zenodo.14697314)
 
 ## Overview
 
