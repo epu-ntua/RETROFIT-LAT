@@ -1,6 +1,6 @@
 # RETROFIT-LAT: A Comprehensive Dataset for Energy Efficiency Investments in Latvia
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14697313.svg)](https://doi.org/10.5281/zenodo.14697313)
+[![DOI](https://zenodo.org/badge/913311588.svg)](https://doi.org/10.5281/zenodo.14697230)
 
 ## Overview
 
